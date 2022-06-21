@@ -33,3 +33,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+
+Here's a preview of my webb app:
+
+![Sov2](https://user-images.githubusercontent.com/52856862/174773932-bde0fad4-670c-4488-b042-be18441d82b9.png)
