@@ -5,7 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+
 In the project directory, you can run:
+
 
 ### `npm start`
 
@@ -41,3 +44,5 @@ Here's a preview of my webb app:
 
 
 ![Sov2](https://user-images.githubusercontent.com/52856862/174773932-bde0fad4-670c-4488-b042-be18441d82b9.png)
+
+Web app link: https://glowing-dango-b23226.netlify.app
