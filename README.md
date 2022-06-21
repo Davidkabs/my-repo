@@ -37,4 +37,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Here's a preview of my webb app:
 
+![SovTech-Portfolio](https://user-images.githubusercontent.com/52856862/174774067-c3cd27f4-231f-446e-82ae-4e1cfeb1fd9f.png)
+
+
 ![Sov2](https://user-images.githubusercontent.com/52856862/174773932-bde0fad4-670c-4488-b042-be18441d82b9.png)
